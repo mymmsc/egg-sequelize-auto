@@ -10,8 +10,8 @@
   "scripts": {
     "test": "node ./bin/egg-sequelize-auto -c ./config.json"
   },
-  "repository": "https://github.com/lkspc/egg-sequelize-auto.git",
-  "author": "lk <lkspc@qq.com>",
+  "repository": "https://github.com/mymmsc/egg-sequelize-auto.git",
+  "author": "wangfeng <wangfengxy@sina.cn>",
   "license": "MIT",
   "dependencies": {
     "async": "^2.1.5",
